@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Click this link to see the project: https://movie-land-lake.vercel.app/
+
+# If you want to set up everything yourself, go on following these steps:)
+# Getting Started with Creating React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
